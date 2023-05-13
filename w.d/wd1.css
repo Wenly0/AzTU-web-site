@@ -1,0 +1,104 @@
+/* kenar, dolgu stil ayarları  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #ffffff;
+  user-select: none;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+.header {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background-image: url(picture/basliq.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 6000px;
+  height: 625px;
+}
+
+.headerr {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background-image: url(picture/sekillik.png);
+  max-width: 2000px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.headerrr {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background-image: url(picture/az.png);
+  max-width: 2000px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.headerrrr {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background-image: url(picture/qoruyaq.png);
+  max-width: 2000px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.headerrrrr {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background-image: url(picture/sede.png);
+  max-width: 2000px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+
+
+#contact h3 span {
+  background: #ddd;
+  padding: 10px 22px;
+  color: #333;
+  text-align: center;
+  display: inline-block;
+}
+
+
+.contact-form input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#contact textarea {
+  height: 200px;
+  width: 100%;
+}
